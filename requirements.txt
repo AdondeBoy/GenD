@@ -18,7 +18,11 @@ peft==0.15.2 # parameter-efficient fine-tuning
 ipykernel==6.30.1 # jupyter
 autoroot==1.0.1 # root utils
 autorootcwd==1.0.1 # root utils
+
+# --- video reading/writing ---
 imageio==2.37.0
+imageio-ffmpeg==0.6.0
+av==16.1.0
 
 # --- for detector.py ---
 # opencv-python==4.11.0.86 # mainly only for detector.py
