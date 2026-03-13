@@ -1,0 +1,11 @@
+scale_factor,num_samples,num_real,num_fake,accuracy,auc,tn,fp,fn,tp,predictions_csv
+1.3,600,300,300,0.7733333333333333,0.8756111111111111,206,94,42,258,imgs\evaluation\results\predictions_by_scale\predictions_scale_1p3.csv
+1.31,600,300,300,0.78,0.8798111111111111,211,89,43,257,imgs\evaluation\results\predictions_by_scale\predictions_scale_1p31.csv
+1.32,600,300,300,0.77,0.8811666666666667,206,94,44,256,imgs\evaluation\results\predictions_by_scale\predictions_scale_1p32.csv
+1.33,600,300,300,0.78,0.8857333333333333,206,94,38,262,imgs\evaluation\results\predictions_by_scale\predictions_scale_1p33.csv
+1.34,600,300,300,0.7783333333333333,0.8839000000000001,209,91,42,258,imgs\evaluation\results\predictions_by_scale\predictions_scale_1p34.csv
+1.35,600,300,300,0.785,0.8845999999999999,213,87,42,258,imgs\evaluation\results\predictions_by_scale\predictions_scale_1p35.csv
+1.36,600,300,300,0.79,0.8850777777777776,209,91,35,265,imgs\evaluation\results\predictions_by_scale\predictions_scale_1p36.csv
+1.37,600,300,300,0.79,0.8841333333333332,212,88,38,262,imgs\evaluation\results\predictions_by_scale\predictions_scale_1p37.csv
+1.38,600,300,300,0.7816666666666666,0.8827222222222222,211,89,42,258,imgs\evaluation\results\predictions_by_scale\predictions_scale_1p38.csv
+1.39,600,300,300,0.7966666666666666,0.885311111111111,216,84,38,262,imgs\evaluation\results\predictions_by_scale\predictions_scale_1p39.csv

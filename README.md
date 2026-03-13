@@ -24,7 +24,7 @@ This example shows how to run inference with the pretrained GenD model from Hugg
 ``` bash
 conda create --name GenD python=3.12 uv -y
 conda activate GenD
-uv pip install torch==2.8.0 torchvision==0.23.0 transformers==4.56.2
+uv pip install -r requirements_gpu.txt
 ```
 
 ### Inference with transformers
